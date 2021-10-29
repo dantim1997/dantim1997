@@ -20,7 +20,5 @@ Hello, My name is Tim Gras and I am studying at University Of Applied Sciences I
 ## Functionality
 
 <img src="https://img.shields.io/badge/-%20CI--CD-blue" />
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=dantim1997&show_icons=true&count_private=true)  
-   
+ 
 <a href="https://www.linkedin.com/in/tim-gras/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
