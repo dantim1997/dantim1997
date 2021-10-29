@@ -1,4 +1,4 @@
-# ðŸ–¥ About
+# About
 
 Hello, My name is Tim Gras and I am studying at University Of Applied Sciences Inholland in Haarlem.
 
